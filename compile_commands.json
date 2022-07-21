@@ -1,0 +1,5 @@
+[
+  { "directory": "/Users/sankalp/lsp",
+    "command": "/usr/bin/clang++ t.cpp --std=c++17",
+    "file": "file.cc" },
+]
